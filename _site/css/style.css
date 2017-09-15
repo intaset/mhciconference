@@ -427,7 +427,7 @@ textarea.textareaHintState, .textareaHintState textarea{
 	background: #fff;
 	height: 60px;
 	position: relative;
-	border-top: 5px solid #C3302A;
+	border-top: 5px solid #2f5bb7;
 	border-bottom: 1px solid #ddd;
 }
 
@@ -438,7 +438,7 @@ textarea.textareaHintState, .textareaHintState textarea{
 }
 
 .custom-header h2 {
-	color: #C3302A;
+	color: #2f5bb7;
 	font-weight: 300;
 	font-size: 18px;
 	margin-top: 8px;
@@ -481,7 +481,7 @@ textarea.textareaHintState, .textareaHintState textarea{
 
 .custom-header nav span:before {
 	font-family: 'icomoon';
-	color: #C3302A;
+	color: #2f5bb7;
 	position: absolute;
 	text-align: center;
 	width: 100%;
@@ -523,7 +523,7 @@ textarea.textareaHintState, .textareaHintState textarea{
 	width: 20px;
 	height: 20px;
 	text-align: center;
-	background: #C3302A;
+	background: #2f5bb7;
 	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
 	cursor: pointer;
 	line-height: 13px;
@@ -553,7 +553,7 @@ textarea.textareaHintState, .textareaHintState textarea{
 	padding: 20px;
 	background: #fff;
 	border-bottom: 1px solid #ddd;
-	border-top: 5px solid #C3302A;
+	border-top: 5px solid #2f5bb7;
 	box-shadow: 0 1px rgba(255,255,255,0.9);
 	margin-bottom: 30px;
 }
@@ -582,7 +582,7 @@ textarea.textareaHintState, .textareaHintState textarea{
 
 .fc-calendar .fc-head {
 	background: transparent;
-	color: #C3302A;
+	color: #2f5bb7;
 	font-weight: bold;
 	text-transform: uppercase;
 	font-size: 12px;
@@ -609,7 +609,7 @@ textarea.textareaHintState, .textareaHintState textarea{
 }
 
 .fc-calendar .fc-row > div.fc-today {
-	background: #C3302A;
+	background: #2f5bb7;
 	box-shadow: inset 0 -1px 1px rgba(0,0,0,0.1);
 }
 
@@ -624,7 +624,7 @@ textarea.textareaHintState, .textareaHintState textarea{
 	width: 20px;
 	margin-left: -10px;
 	position: absolute;
-	color: #C3302A;
+	color: #2f5bb7;
 	font-size: 70px;
 	line-height: 20px;
 	left: 50%;
@@ -2373,14 +2373,14 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 
 .cbp-af-header nav a {
-	color: #532815;
+	color: #2f5bb7;
 	font-weight: 200;
 	font-size: 1em;
 	text-decoration: none;
 }
 
 .cbp-af-header nav a:hover {
-	color: #C3302A;
+	color: #2f5bb7;
 }
 
 /* Transitions and class for reduced height */
@@ -2528,22 +2528,22 @@ position:relative;
 .ls-nav {
   overflow:hidden;
   clear:both;
-    border-bottom: 1px solid #C3302A;
+    border-bottom: 1px solid #2f5bb7;
 }
 .ls-nav a {
-  color: #C3302A;
+  color: #2f5bb7;
   padding: 10px 15px;  
   outline:0;
   border-right: 1px solid;
     font-family: 'Lato', sans-serif;
 }
 .ls-nav a:hover {
-  background: #C3302A;
+  background: #2f5bb7;
   color: #FFF;
   text-shadow: none;
 }
 .ls-nav .current a {
-  background: #C3302A;
+  background: #2f5bb7;
   color: #FFF;
 }
 .currentCrossLink {

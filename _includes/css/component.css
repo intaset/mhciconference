@@ -43,14 +43,14 @@
 }
 
 .cbp-af-header nav a {
-	color: #532815;
+	color: #2f5bb7;
 	font-weight: 200;
 	font-size: 1em;
 	text-decoration: none;
 }
 
 .cbp-af-header nav a:hover {
-	color: #C3302A;
+	color: #2f5bb7;
 }
 
 /* Transitions and class for reduced height */

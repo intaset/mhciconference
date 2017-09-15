@@ -184,7 +184,7 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>5<sup>th</sup> International Conference on Multimedia and Human-Computer Interaction (MHCI'18)</h1>
+          <h1>5<sup>th</sup> International Conference on Multimedia and <br>Human-Computer Interaction (MHCI'18)</h1>
           <p class="subhead">August 21 - 23, 2018 | Madrid, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -211,7 +211,7 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>5<sup>th</sup> International Conference on Multimedia and Human-Computer Interaction (MHCI'18)</h1>
+          <h1>5<sup>th</sup> International Conference on Multimedia and <br>Human-Computer Interaction (MHCI'18)</h1>
           <p class="subhead">August 21 - 23, 2018 | Madrid, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -382,7 +382,7 @@ mail($your_email,$your_subject,$message,$your_headers);
   <div class="half right cf">
     <textarea name="Message" type="text" rows="5" name="Message" id="Message" placeholder="Message" required></textarea>
   </div><br><br>
-  <center class="full right cf"><div class="g-recaptcha" data-sitekey="6LdAUf8SAAAAAFpJCP0sz2aL2uSCkemWmvZ9tJ9z"></div></center>
+  <center class="full right cf"><div class="g-recaptcha" data-sitekey="6LdAUf8SAAAAABh07KXGSdkOKpxClfuiVaqjPNGS"></div></center>
   <div class="cf">
   <center><div class="full right cf"><input type="submit" name="Submit" value="Submit">
     <input type="reset" name="Reset" value="Reset"></center></div>
